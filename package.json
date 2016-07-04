@@ -1,0 +1,25 @@
+{
+  "name": "http-content-disposition",
+  "version": "0.0.0",
+  "description": "Parse http content disposition header",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postmanlabs/http-content-disposition.git"
+  },
+  "keywords": [
+    "postman",
+    "http",
+    "content-disposition",
+    "headers"
+  ],
+  "author": "Postman Labs <help@postmanlabs.com> (=)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/postmanlabs/http-content-disposition/issues"
+  },
+  "homepage": "https://github.com/postmanlabs/http-content-disposition#readme"
+}
